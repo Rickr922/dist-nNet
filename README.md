@@ -1,7 +1,7 @@
 # Autoencoder neural networks for audio distortion effect
 
 This repo is only intended to store sample audio files from the paper *Modeling Audio Distortion Effects with
-Autoencoder Neural Networks*, which is included.
+Autoencoder Neural Networks*.
 
 The folders `Mono_Notes` and `Poly_Notes` contain respectively single notes and chords example. Inside each of the two folders there are three files: one is the dataset example, the target sound, the other two are the results obtained by processing the clean sounds from the dataset with the two different networks.
 
